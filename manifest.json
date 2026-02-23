@@ -1,6 +1,6 @@
 {
-    "name": "gps",
-    "short_name": "gps",
+    "name": "newgps",
+    "short_name": "newgps",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
